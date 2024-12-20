@@ -5,4 +5,4 @@ meta:
   type: http-source
   topic: blue-sky-raw-comment
 http:
-  endpoint: jetstream2.us-east.bsky.network/subscribe\?wantedCollections=app.bsky.feed.post
+  endpoint: wss://jetstream2.us-east.bsky.network/subscribe?wantedCollections=app.bsky.feed.post
